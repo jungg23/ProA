@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-기존 로컬 레파지토리에서 새롭게 생성된 파일
+
+	로컬에서 처음으로 올림
+	
 
 </body>
 </html>
